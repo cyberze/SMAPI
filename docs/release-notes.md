@@ -1,4 +1,8 @@
 # Release notes
+## 3.0 (upcoming release)
+* For modders:
+  * Added `IContentPack.HasFile` method.
+
 ## 2.11-beta
 Currently in beta for Stardew Valley 1.3.35-beta only. **Not compatible with non-beta versions of the game.**
 
