@@ -6,6 +6,7 @@
 
 * For modders:
   * Added `IContentPack.HasFile` method.
+  * Dropped support for all deprecated APIs.
   * Updated to Json.NET 12.0.1.
 
 ## 2.11-beta
